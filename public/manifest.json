@@ -1,0 +1,10 @@
+{
+  "name": "Catamarca Pádel Tour",
+  "short_name": "CPT",
+  "description": "Torneos y competencia de Catamarca Pádel Tour",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f2ed",
+  "theme_color": "#101b2c",
+  "icons": []
+}
